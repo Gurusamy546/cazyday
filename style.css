@@ -75,7 +75,7 @@ nav span{
 #mission {
     height: 700px;
 
-    background-image: url("C:/Users/GURUSAMY/Desktop/coffeday/css/image/bg.jpg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
 }
 .img{
     display: flex;
@@ -116,7 +116,6 @@ nav span{
     margin: auto;
     display: block;
     padding-bottom: 7px;
-}
 #locations .container{
     margin: auto;
     width: 1200px;
@@ -132,7 +131,7 @@ nav span{
     width: 1200px;
     height: 500px;
 
-    background-image: url("C:/Users/GURUSAMY/Desktop/coffeday/css/image/img-locations-background.jpg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
 }
 .shop{
     height: 300px;
