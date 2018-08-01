@@ -80,6 +80,7 @@ nav span{
 .img{
     display: flex;
     justify-content: center;
+
     align-items: center;
 }
 #mission .cont{
@@ -116,6 +117,7 @@ nav span{
     margin: auto;
     display: block;
     padding-bottom: 7px;
+  }
 #locations .container{
     margin: auto;
     width: 1200px;
